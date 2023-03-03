@@ -4,6 +4,9 @@ OpenCore based EFI for Gigabyte Z77-DS3H
 
 
 
+![giga](https://user-images.githubusercontent.com/93620854/222738234-f5bbc097-5b89-4a62-a857-f2587796e10a.png)
+
+
 
 
 ## Tested macOS Version
